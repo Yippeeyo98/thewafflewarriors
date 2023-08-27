@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset = "UTF-8">
+            <title>The Waffle Warriors</title>
+        </head>
+        <body>
+            <style>
+                #Title {
+                    color: firebrick;
+                }
+            </style>
+            <h1 id = "Title">Welcome to the Waffle Warriors Website!</h1>  
+        </body>
+    </html>
